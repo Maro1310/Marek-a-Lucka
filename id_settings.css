@@ -1,0 +1,13 @@
+/* -Ćáro- osobný badge */
+
+[data-cid^="30463569-"] .badge-box .bdg {
+  background: url('https://tessi1998.github.io/FreeRun/Badges/Tessi_Tess.png') !important;
+  background-position: 0 0;
+}
+
+#user-rollover.id-30463569 .badge-box .bdg {
+  border-radius: 5px !important;
+  background-image: url('https://tessi1998.github.io/FreeRun/Badges/Tessi_Tess.png') !important;
+  background-repeat: round !important;
+  background-size: 30px !important;
+}
