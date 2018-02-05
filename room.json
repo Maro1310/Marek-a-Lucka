@@ -1,7 +1,6 @@
 {
-  "room":   "Písně a Filmy",
+  "room":   "ROOM NAME",
   "author": "Čáry Máry",
-  "icon":   "https://i.imgur.com/iNYvJg7.png",
   "css":    "https://rawgit.com/Maro1310/plug/master/style.css",
   "rules": {
     "allowAutorespond": true,
