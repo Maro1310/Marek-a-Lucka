@@ -1,7 +1,7 @@
 {
   "room":   "ROOM NAME",
   "author": "Čáry Máry",
-  "css":    "https://rawgit.com/Maro1310/plug/master/style.css",
+  "css":    "https://cdn.rawgit.com/Maro1310/plug/4b16b04a/style.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
