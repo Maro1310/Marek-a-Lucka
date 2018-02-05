@@ -12,32 +12,6 @@
     "allowEmotes":      true,
     "allowShowingMehs": false,
     "forceSmartVote":   false
-},
-  "ccc": {
-    "admin":            null,
-    "ambassador":       null,
-    "host":             null,
-    "cohost":           null,
-    "manager":          null,
-    "bouncer":          null,
-    "rdj":              null,
-    "subscriber":       null,
-    "silversubscriber": null,
-    "friend":           null,
-    "user":             null
-  },
-  "images": {
-    "background":       null,
-    "playback":         null,
-    "admin":            null,
-    "ambassador":       null,
-    "host":             null,
-    "cohost":           null,
-    "manager":          null,
-    "bouncer":          null,
-    "rdj":              null,
-    "subscriber":       null,
-    "silversubscriber": null
   },
   "emotes": {
   }
