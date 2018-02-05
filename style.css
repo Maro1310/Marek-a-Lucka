@@ -1,1 +1,326 @@
-@import url("https://cdn.rawgit.com/Maro1310/plug/40013701/id_settings.css");
+@import url("https://tessi1998.github.io/FreeRun/Style/ID_settings.css");
+@import url("https://tessi1998.github.io/FreeRun/Icons/Icons.css");
+@import url("https://tessi1998.github.io/FreeRun/Style/Staff_colors.css");
+@import url("https://tessi1998.github.io/FreeRun/Background/Background.css");
+
+@font-face{
+    font-family: 'Alamak';
+    src: url("https://tessi1998.github.io/FreeRun/Font/Alamak.ttf"); /* pro ostatní prohlížeče*/
+}
+@font-face{
+    font-family: 'Almanak';
+    src: url("https://tessi1998.github.io/FreeRun/Font/Alamak.eot"); /* pro Internet Explorer */
+}
+
+#room-name {
+    font-family: 'Alamak';
+    color: #70b3ff;
+}
+
+.app-header, 
+#room-info .edit,
+#room .app-right,
+#footer {
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.86) 0,rgba(0, 0, 0, 0.95) 100%) !important;
+}
+
+#footer-user .buttons .button.store:hover {
+    background: #70b3ff;
+    background: -moz-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#70b3ff),color-stop(100%,#419aff));
+    background: -webkit-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -o-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -ms-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: linear-gradient(to bottom,#70b3ff 0,#419aff 100%);
+}
+
+#footer-user .buttons .button:hover {
+    background: #24242459;
+}
+
+#footer-user .info {
+    background: #090909;
+}
+
+#app-menu {
+    background: #000000;
+}
+
+#app-menu .list {
+    background: #090909;
+}
+
+#app-menu .list .item {
+    box-shadow: inset 0 -1px 0 0 #1c1c1c;
+}
+
+#rs-skip-button,
+#history-button,
+.header-panel-button.selected {
+    background: #00000096 !important;
+}
+
+#playback .background img {
+    display: none;
+}
+
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid #70b3ff;
+}
+
+#rcs-progress-container .bar {
+    background-color: #70b3ff;
+}
+
+#room-settings .general-settings a, 
+#room-settings .general-settings a:visited {
+    color: #70b3ff;
+}
+
+#user-lists .list .user:hover {
+    background-color: #2e2e2ea1;
+}
+
+#user-lists .list.staff .group {
+    border-top: 1px solid #1c1f25d6;
+    border-bottom: 1px solid #1c1f25d6;
+    background: #111317c7;
+}
+
+#footer-user .info .meta div.bar,
+.experience .xp .bar{
+    border-radius: 2pc 0;
+}
+
+#footer-user .info .bar .progress,
+.experience .xp .bar .progress{
+    background: #70b3ff;
+    border-radius: 2pc 0;
+}
+
+.experience .levels .level.earned.ep .label, 
+.experience .levels .level.earned.pp .label {
+    background: #70b3ff;
+}
+
+#room-settings,
+#user-view {
+    background: #000;
+}
+
+#room-settings-menu,
+#user-menu {
+    background: #090909;
+}
+
+#user-menu .item.selected {
+    background: #265284!important;
+}
+
+#room-settings .general-settings .option button.off,
+.tab-menu button.selected {
+    background: #70b3ff;
+}
+
+#room-settings-menu .item.selected {
+    background: #265284!important;
+}
+
+#user-menu .avatar,
+.user-content .grid .cell:hover>.top {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 250px;
+    background: #6f93f6;
+    background: -moz-linear-gradient(top,#6f93f6 0,#3e4a6a 56%,#1a1a1a 73%,#73716d 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#6f93f6),color-stop(56%,#3e4a6a),color-stop(73%,#1a1a1a),color-stop(100%,#73716d));
+    background: -webkit-linear-gradient(top,#6f93f6 0,#3e4a6a 56%,#1a1a1a 73%,#73716d 100%);
+    background: -o-linear-gradient(top,#6f93f6 0,#3e4a6a 56%,#1a1a1a 73%,#73716d 100%);
+    background: -ms-linear-gradient(top,#6f93f6 0,#3e4a6a 56%,#1a1a1a 73%,#73716d 100%);
+    background: linear-gradient(to bottom,#6f93f6 0,#3e4a6a 56%,#1a1a1a 73%,#73716d 100%);
+}
+
+
+/*chat*/
+#chat-input {
+    border-radius: 30px;
+}
+#chat .rs-log-purple, 
+#chat .rs-log-user-grab {
+    border-left: #70b3ff 3px solid!important;
+    color: #70b3ff!important;
+}
+#chat .text a:visited,
+#chat .text a {
+    color: #ffffff;
+}
+#chat .welcome {
+    color: #70b3ff;
+    background: black;
+}
+#chat .cm:nth-child(2n+1) {
+    background-color: #000000a3;
+}
+#chat .moderation {
+    color: #70b3ff !important;
+}
+
+
+/*votes*/
+#vote .crowd-response {
+    background: #000000cc;
+}
+.votes-rs .title.grab, 
+#grab .bottom, 
+#grab.selected {
+    background: #90c4ff9c!important;
+}
+#grab {
+    margin-left: -1px;  
+}
+.votes-rs .title.woot,
+#woot .bottom, 
+#woot.selected {
+    background: #90ad2fbf!important;
+}
+.votes-rs .title.meh,
+#meh .bottom, 
+#meh.selected {
+    background: #c42e3bb8!important;
+}
+#meh {
+    margin-left: -1px;
+}
+.votes-rs {
+    background: #000000cc!important;
+    width: 252px !important;
+}
+
+
+/*playlist*/
+#playlist-button,
+#playlist-import:hover {
+    background: #70b3ff;
+    background: -moz-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#70b3ff),color-stop(100%,#419aff));
+    background: -webkit-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -o-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -ms-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: linear-gradient(to bottom,#70b3ff 0,#419aff 100%);
+}
+#playlist-menu .menu .row .count,
+#playlist-activate-button span {
+    color: #70b3ff!important;
+}
+#playlist-activate-button {
+    background: #334d6b;
+}
+.media-list .row.now-playing {
+    border-bottom: #70b3ff 2px solid!important;
+    background: #265284!important;
+}
+#playlist-menu .menu .row.selected,
+.media-list .row.now-playing .actions {
+    top: 1px;
+    background: #265284!important;
+}
+#filter-bar,
+#search-bar {
+    border-radius: 30px;
+}
+#playlist-panel {
+    background: #000;
+}
+#playlist-menu {
+    background: #090909;
+}
+#search {
+    background: #17191c;
+}
+#playlist-edit-button {
+    background: #17191c;
+}
+#playlist-shuffle-button {
+    background: #121316;
+}
+#playlist-delete-button {
+    background: #0b0c0d;
+}
+#playlist-edit-button:hover {
+    background: #65deffb8;
+    background: -moz-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#65deffb8),color-stop(100%,#17bbff7a));
+    background: -webkit-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: -o-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: -ms-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: linear-gradient(to bottom,#65deffb8 0,#17bbff7a 100%);
+}
+#playlist-delete-button:hover {
+    background: #ff6e41b5;
+    background: -moz-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#ff6e41b5),color-stop(100%,#ff290094));
+    background: -webkit-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: -o-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: -ms-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: linear-gradient(to bottom,#ff6e41b5 0,#ff290094 100%);
+}
+#playlist-shuffle-button:hover {
+    background: #70b3ff;
+    background: -moz-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#70b3ff),color-stop(100%,#419aff));
+    background: -webkit-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -o-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: -ms-linear-gradient(top,#70b3ff 0,#419aff 100%);
+    background: linear-gradient(to bottom,#70b3ff 0,#419aff 100%);
+}
+#playlist-import {
+    background: #121316;
+}
+#playlist-create {
+    background: #17191c;
+}
+
+
+/*dj button*/
+#dj-button {
+    background: #000000c7;
+}
+#dj-button.is-leave .left, 
+#dj-button.is-quit .left {
+    background: #ff6e41b5;
+    background: -moz-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#ff6e41b5),color-stop(100%,#ff290094));
+    background: -webkit-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: -o-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: -ms-linear-gradient(top,#ff6e41b5 0,#ff290094 100%);
+    background: linear-gradient(to bottom,#ff6e41b5 0,#ff290094 100%);
+}
+#dj-button .left {
+    background: #65deffb8;
+    background: -moz-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#65deffb8),color-stop(100%,#17bbff7a));
+    background: -webkit-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: -o-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: -ms-linear-gradient(top,#65deffb8 0,#17bbff7a 100%);
+    background: linear-gradient(to bottom,#65deffb8 0,#17bbff7a 100%);
+}
+
+
+/*dashboard*/
+#dashboard {
+    background: #090909;
+}
+
+
+/*scrollbar*/
+::-webkit-scrollbar {
+    width: 13px !important;
+    background: rgba(0, 0, 0, 0.72) !important;
+}
+::-webkit-scrollbar-thumb {
+    background: #525252;
+}
+::-webkit-scrollbar-track {
+    background: #1e1e1e;
+}
