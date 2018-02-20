@@ -1,3 +1,9 @@
+/* --- IMPORTS --- */
+
+#chat .from.staff .un { 
+	color: #58f !important; 
+}
+
 /* --- CHAT --- */
 
 #chat .welcome {
