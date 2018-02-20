@@ -4,7 +4,7 @@
 	color: #58f !important; 
 }
 
-#user-rollover .is-staff .thumb, 
+#user-rollover.is-staff .thumb, 
 #waitlist .is-staff .thumb { 
 	border-color: #70b3ff !important; 
 }
