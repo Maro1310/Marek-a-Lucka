@@ -13,32 +13,6 @@
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
-    "ccc": {
-        "admin": null,
-        "ambassador": null,
-        "host": null,
-        "cohost":  null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null,
-        "friend": null,
-        "user": null
-    },
-    "images": {
-        "background": "https://i.imgur.com/1rCSZJN.jpg",
-        "playback": "https://i.imgur.com/afMBMBz.png",
-        "admin": null,
-        "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null
-    },
     "emotes": {
     	"chnu": "https://i.imgur.com/nbYQOWx.png"
     }
