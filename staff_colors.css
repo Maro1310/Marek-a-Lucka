@@ -1,0 +1,52 @@
+.role-host .from .un { color: #70b3ff; }
+#user-lists .list.room .user.role-host .name { color: #70b3ff !important; }
+#waitlist .list .user.role-host .name + span { color: #70b3ff !important; }
+#footer-user .info .name .icon-chat-host + span { color: #70b3ff !important; }
+#chat .msg .text .name.host, #chat .msg .text .name.host .name { color: #70b3ff !important; }
+#user-rollover.role-host .username { color: #70b3ff !important; }
+#user-rollover.role-host .role span { color: #70b3ff !important; }
+#user-rollover.role-host .thumb { border-color: #70b3ff !important; }
+
+.role-cohost .from .un { color: #70b3ff; }
+#user-lists .list.room .user.role-cohost .name { color: #70b3ff !important; }
+#waitlist .list .user .name .icon-chat-host + span { color: #70b3ff !important; }
+#footer-user .info .name .icon-chat-host + span { color: #70b3ff !important; }
+#chat .msg .text .name.cohost, #chat .msg .text .name.cohost .name { color: #70b3ff !important; }
+#user-rollover.role-cohost .username { color: #70b3ff !important; }
+#user-rollover.role-cohost .role span { color: #70b3ff !important; }
+#user-rollover.role-cohost .thumb { border-color: #70b3ff !important; }
+
+.role-manager .from .un { color: #70b3ff; }
+#user-lists .list.room .user.role-manager .name { color: #70b3ff; }
+#waitlist .list .user .name .icon-chat-manager + span { color: #70b3ff; }
+#footer-user .info .name .icon-chat-manager + span { color: #70b3ff; }
+#chat .msg .text .name.manager, #chat .msg .text .name.manager .name { color: #70b3ff !important; }
+#user-rollover.role-manager .username { color: #70b3ff !important; }
+#user-rollover.role-manager .role span { color: #70b3ff !important; }
+#user-rollover.role-manager .thumb { border-color: #70b3ff !important; }
+
+.role-bouncer .from .un { color: #70b3ff !important; }
+#user-lists .list.room .user.role-bouncer .name { color: #70b3ff !important; }
+#waitlist .list .user .name .icon-chat-bouncer + span { color: #70b3ff !important; }
+#footer-user .info .name .icon-chat-bouncer + span { color: #70b3ff !important; }
+#chat .msg .text .name.bouncer, #chat .msg .text .name.bouncer .name { color: #70b3ff !important; }
+#user-rollover.role-bouncer .username { color: #70b3ff !important; }
+#user-rollover.role-bouncer .role span { color: #70b3ff !important; }
+#user-rollover.role-bouncer .thumb { border-color: #70b3ff !important; }
+
+.role-dj .from .un { color: #70b3ff !important; }
+#user-lists .list .role-dj .name { color: #70b3ff !important; }
+#waitlist .list .user .name .icon-chat-dj + span { color: #70b3ff !important; }
+#footer-user .info .name .icon-chat-dj + span { color: #70b3ff !important; }
+#chat .msg .text .name.rdj, #chat .msg .text .name.rdj .name { color: #70b3ff !important; }
+#user-rollover.role-dj .username { color: #70b3ff !important; }
+#user-rollover.role-dj .role span { color: #70b3ff !important; }
+#user-rollover.role-dj .thumb { border-color: #70b3ff !important; }
+
+#user-rollover.is-staff .info .role span { color: #70b3ff; }
+
+.user-content.profile .meta.is-staff .role span { color: #70b3ff; }
+
+#user-rollover.is-staff .thumb, #waitlist .is-staff .thumb { border-color: #70b3ff !important; }
+
+#chat .from.staff .un { color: #70b3ff !important; }
