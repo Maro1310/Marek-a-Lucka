@@ -8,9 +8,12 @@
 /* --- ROOM --- */
 
 #room .room-background {
-    background: url(https://i.imgur.com/1rCSZJN.jpg) no-repeat !important;
+    	background: url(https://i.imgur.com/1rCSZJN.jpg) no-repeat !important;
 }
 
+#room .icon.icon-room {
+	background: url(https://i.imgur.com/3jLjL69.png) no-repeat !important;
+}
 
 /* --- USERS --- */
 
