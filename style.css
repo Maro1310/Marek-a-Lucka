@@ -6,7 +6,15 @@
 
 #user-rollover.is-staff .thumb, 
 #waitlist .is-staff .thumb { 
-	border-color: #70b3ff !important; 
+	border-color: #58f !important; 
+}
+
+#user-rollover.is-staff .info .role span { 
+	color: #58f; 
+}
+
+.user-content.profile .meta.is-staff .role span { 
+	color: #58f; 
 }
 
 /* --- CHAT --- */
