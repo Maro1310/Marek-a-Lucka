@@ -1,22 +1,8 @@
 /* --- IMPORTS --- */
 
-.role-cohost .from .un { color: #58f; }
-#user-lists .list.room .user.role-cohost .name { color: #58f !important; }
-#waitlist .list .user .name .icon-chat-host + span { color: #58f !important; }
-#footer-user .info .name .icon-chat-host + span { color: #58f !important; }
-#chat .msg .text .name.cohost, #chat .msg .text .name.cohost .name { color: #58f !important; }
-#user-rollover.role-cohost .username { color: #58f !important; }
-#user-rollover.role-cohost .role span { color: #58f !important; }
-#user-rollover.role-cohost .thumb { border-color: #58f !important; }
-
-#user-rollover.is-staff .info .role span { color: #58f; }
-
-.user-content.profile .meta.is-staff .role span { color: #58f; }
-
-#user-rollover.is-staff .thumb, #waitlist .is-staff .thumb { border-color: #58f !important; }
-
-#chat .from.staff .un { color: #58f !important; }
-
+.icon { 
+    background-image: url(https://i.imgur.com/gNoVwHF.png); 
+}
 
 /* --- CHAT --- */
 
