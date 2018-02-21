@@ -16,7 +16,8 @@
 }
 
 #chat .user-action,
-#chat .user-action .from.you .un {
+#chat .user-action .from.you .un,
+#chat .cm.moderation .from.staff .un {
     color: #ac76ff !important;
 }
 
@@ -27,9 +28,10 @@
 	border-color: #58f !important; 
 }
 
+#user-rollover.is-staff .username,
 #user-rollover.is-staff .info .role span,
 .user-content.profile .meta.is-staff .role span { 
-	color: #58f; 
+	color: #58f !important; 
 }
 
 /* --- ROOM --- */
