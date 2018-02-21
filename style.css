@@ -21,6 +21,10 @@
 	background: url(https://i.imgur.com/3jLjL69.png) no-repeat !important;
 }
 
+#room .playback .background {
+	background: url(https://i.imgur.com/5ZJIq22.png) no-repeat !important;
+}
+
 /* --- USERS --- */
 
 /*#user-lists .list.staff .group {
