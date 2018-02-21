@@ -15,12 +15,8 @@
 	color: #58f !important; 
 }
 
-#chat .cm.moderation .text {
-	color: #003061 !important; 
-}
-
 #chat .user-action {
-    color: #003061 !important;
+    color: #ac76ff !important;
 }
 
 /* --- STAFF COLORS --- */
