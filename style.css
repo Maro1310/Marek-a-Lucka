@@ -44,27 +44,27 @@
 }
 
 .icon-rcsmenu-main {
-    background: url(https://i.imgur.com/5S1UzEl.png);
+    background: url(https://i.imgur.com/5S1UzEl.png) !important;
 }
 
 .icon-rcsmenu-notifications {
-	background: url(https://i.imgur.com/NBle05S.png);
+	background: url(https://i.imgur.com/NBle05S.png) !important;
 }
 
 .icon-rcsmenu-styling {
-	background: url(https://i.imgur.com/Ddsz59Z.png);
+	background: url(https://i.imgur.com/Ddsz59Z.png) !important;
 }
 	
 .icon-rcsmenu-customize {
-	background: url(https://i.imgur.com/KpBIWw5.png);
+	background: url(https://i.imgur.com/KpBIWw5.png) !important;
 }
 	
 .icon-rcsmenu-moderation {
-	background: url(https://i.imgur.com/IPs2ixJ.png);
+	background: url(https://i.imgur.com/IPs2ixJ.png) !important;
 }
 	
 .icon-rcsmenu-settings {
-	background: url(https://i.imgur.com/WzDiVGt.png);
+	background: url(https://i.imgur.com/WzDiVGt.png) !important;
 }
 
 /* --- USERS --- */
