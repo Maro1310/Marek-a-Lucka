@@ -11,6 +11,17 @@
     	border: #2ea8d1 1px solid;
 }
 
+#chat .from.staff .un { 
+	color: #58f !important; 
+}
+
+/* --- STAFF COLORS --- */
+
+#user-rollover.is-staff .thumb, 
+#waitlist .is-staff .thumb { 
+	border-color: #58f !important; 
+}
+
 /* --- ROOM --- */
 
 #room .room-background {
@@ -20,10 +31,6 @@
 #room .icon.icon-room {
 	background: url(https://i.imgur.com/3jLjL69.png) no-repeat !important;
 }
-
-/*#playback .background {
-	visibility: hidden;
-}*/
 
 #playlist-button,
 #dj-button.is-join .left,
