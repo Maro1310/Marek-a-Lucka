@@ -23,7 +23,7 @@
 
 #playback .background 
 {
-	visibility: hidden;
+	background: url(https://i.imgur.com/DbCjNQw.png) no-repeat !important;
 }
 
 /* --- USERS --- */
