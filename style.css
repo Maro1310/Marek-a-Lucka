@@ -1,7 +1,7 @@
 /* --- ICONS --- */
 
 .icon { 
-    background-image: url(https://i.imgur.com/NhwwFT3.png); 
+    	background-image: url(https://i.imgur.com/NhwwFT3.png); 
 }
 
 /* --- CHAT --- */
@@ -18,7 +18,7 @@
 #chat .user-action,
 #chat .user-action .from.you .un,
 #chat .cm.moderation .from.staff .un {
-    color: #ac76ff !important;
+    	color: #ac76ff !important;
 }
 
 /* --- STAFF COLORS --- */
@@ -36,7 +36,7 @@
 }
 
 #user-lists .list.staff .group {
-	color: #58f;
+	color: #58f !important;
 	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
 }
 
@@ -70,13 +70,17 @@
 #user-lists .header .button.waitlist-bans.selected,
 #user-lists .header .button.mutes.selected,
 #user-lists .header .button.ignored.selected {
-    border-bottom: 1px solid #2ea8d1;
+    	border-bottom: 1px solid #2ea8d1;
+}
+
+#room-settings .general-settings .description .value a:last-of-type {
+    	display: none !important;
 }
 
 /* --- RCS --- */
 
 .icon-rcsmenu-main {
-    background: url(https://i.imgur.com/5S1UzEl.png) !important;
+    	background: url(https://i.imgur.com/5S1UzEl.png) !important;
 }
 
 .icon-rcsmenu-notifications {
