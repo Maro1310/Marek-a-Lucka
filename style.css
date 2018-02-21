@@ -21,8 +21,8 @@
 	background: url(https://i.imgur.com/3jLjL69.png) no-repeat !important;
 }
 
-#playback .background {
-	background-image: url(https://i.imgur.com/5ZJIq22.png) no-repeat !important;
+#room-settings .description-panel .value .a {
+	display: none;
 }
 
 /* --- USERS --- */
