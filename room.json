@@ -12,6 +12,9 @@
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
+    "images": {
+        "playback": "https://i.imgur.com/DbCjNQw.png"
+    },
     "emotes": {
     	"chnu": "https://i.imgur.com/nbYQOWx.png"
     }
