@@ -15,11 +15,20 @@
 	color: #58f !important; 
 }
 
+#chat .text {
+	color: #2ea8d1 !important; 
+}
+
 /* --- STAFF COLORS --- */
 
 #user-rollover.is-staff .thumb, 
 #waitlist .is-staff .thumb { 
 	border-color: #58f !important; 
+}
+
+#user-rollover.is-staff .info .role span,
+.user-content.profile .meta.is-staff .role span { 
+	color: #58f; 
 }
 
 /* --- ROOM --- */
