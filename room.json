@@ -1,7 +1,7 @@
 {
     "room": "Metal Rock Punk CZ/SK",
     "author": "Máro",
-    "css": "https://cdn.rawgit.com/Maro1310/plug/ac9bad24/style.css",
+    "css": "https://cdn.rawgit.com/Maro1310/plug/96348eaa/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -11,9 +11,6 @@
         "allowEmotes": true,
         "allowShowingMehs": true,
         "forceSmartVote": false
-    },
-    "images": {
-        "playback": "https://i.imgur.com/DbCjNQw.png" 
     },
     "emotes": {
     	"chnu": "https://i.imgur.com/nbYQOWx.png"
