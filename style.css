@@ -21,8 +21,9 @@
 	background: url(https://i.imgur.com/3jLjL69.png) no-repeat !important;
 }
 
-#room-settings .description-panel .value a {
-	display: none;
+#playback .background 
+{
+	visibility: hidden;
 }
 
 /* --- USERS --- */
