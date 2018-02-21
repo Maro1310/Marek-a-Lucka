@@ -26,10 +26,14 @@
 }
 
 #playlist-button,
-#dj-button .left,
-#friends-button .request-count, 
+#dj-button.is-quit .left, 
 .app-right .friends .header i {
 	background: #2ea8d1;
+}
+
+#dj-button.is-join .left,
+#friends-button .request-count {
+	background: #58f;
 }
 
 /* --- USERS --- */
