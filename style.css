@@ -1,4 +1,4 @@
-/* --- IMPORTS --- */
+/* --- ICONS --- */
 
 .icon { 
     background-image: url(https://i.imgur.com/LdcLbzY.png); 
@@ -26,14 +26,40 @@
 }
 
 #playlist-button,
+#dj-button.is-join .left,
 #dj-button.is-quit .left, 
+#rcs-progress-container .bar,
 .app-right .friends .header i {
 	background: #2ea8d1;
 }
 
-#dj-button.is-join .left,
 #friends-button .request-count {
 	background: #58f;
+}
+
+/* --- RCS --- */
+
+#rcs-donatebanner {
+	background-color: rgba(85, 136, 255, 1) !important;
+}
+
+.icon-rcsmenu-main {
+    background: url(https://cdn.radiant.dj/rcs/icons/menu/main.png);
+}
+
+.icon-rcsmenu-notifications {
+}
+
+.icon-rcsmenu-styling {
+}
+	
+.icon-rcsmenu-customize {
+}
+	
+.icon-rcsmenu-moderation {
+}
+	
+.icon-rcsmenu-settings {
 }
 
 /* --- USERS --- */
