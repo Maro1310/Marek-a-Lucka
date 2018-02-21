@@ -15,7 +15,8 @@
 	color: #58f !important; 
 }
 
-#chat .user-action {
+#chat .user-action,
+#chat .user-action .from.you .un {
     color: #ac76ff !important;
 }
 
