@@ -35,6 +35,11 @@
 	color: #58f !important; 
 }
 
+#user-lists .list.staff .group {
+	color: #58f;
+	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
+}
+
 /* --- ROOM --- */
 
 #room .room-background {
@@ -57,6 +62,15 @@
 #friends-button .request-count,
 #user-friends .tab-menu button .count {
 	background: #58f;
+}
+
+#user-lists .header .button.room.selected,
+#user-lists .header .button.staff.selected,
+#user-lists .header .button.bans.selected,
+#user-lists .header .button.waitlist-bans.selected,
+#user-lists .header .button.mutes.selected,
+#user-lists .header .button.ignored.selected {
+    border-bottom: 1px solid #2ea8d1;
 }
 
 /* --- RCS --- */
@@ -84,14 +98,3 @@
 .icon-rcsmenu-settings {
 	background: url(https://i.imgur.com/WzDiVGt.png) !important;
 }
-
-/* --- USERS --- */
-
-/*#user-lists .list.staff .group {
-	color: #58f;
-	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
-}
-
-#user-lists .list.staff .user {
-	color: #58f !important;
-}*/
