@@ -28,10 +28,7 @@
 	border-color: #58f !important; 
 }
 
-.is-staff .name {
-	color: #eee !important; 
-}
-
+.is-staff .name,
 #user-rollover.is-staff .username,
 #user-rollover.is-staff .info .role span,
 .user-content.profile .meta.is-staff .role span { 
