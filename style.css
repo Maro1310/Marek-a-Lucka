@@ -53,8 +53,8 @@
 }
 
 #user-menu .friends .count,
-#user-friends .requests .count,
-#friends-button .request-count {
+#friends-button .request-count,
+#user-friends .tab-menu button .count {
 	background: #58f;
 }
 
