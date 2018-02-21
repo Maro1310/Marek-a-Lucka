@@ -26,6 +26,10 @@
 	visibility: hidden;
 }
 
+#playlist-button {
+	background: #2ea8d1;
+}
+
 /* --- USERS --- */
 
 /*#user-lists .list.staff .group {
