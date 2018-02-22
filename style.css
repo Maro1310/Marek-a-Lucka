@@ -66,9 +66,22 @@ woot, grab, meh {
 	width: 255px !important;
 }
 
+#woot .bottom,
 #woot.selected,
 .votes-rs .title.woot {
-    	background: #97cd00;
+    	background: #97cd00 !important;
+}
+
+#grab .bottom,
+#grab.selected,
+.grab-rs .title.grab {
+    	background: #2ea8d1 !important;
+}
+
+#meh .bottom,
+#meh.selected,
+.meh-rs .title.meh {
+    	background: #db182e !important;
 }
 
 /* --- ROOM --- */
