@@ -132,6 +132,10 @@
     	display: none !important;
 }
 
+#user-rollover .info {
+    	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
+}
+
 /* --- RCS --- */
 
 .icon-rcsmenu-main {
