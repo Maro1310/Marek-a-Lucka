@@ -61,10 +61,10 @@ woot, grab, meh {
 	box-shadow: 0 0 10px #000;
 }
 
-#vote {
+/*#vote {
 	box-shadow: 0 0 10px #000;
 	width: 255px !important;
-}
+}*/
 
 #woot .bottom,
 #woot.selected,
@@ -74,13 +74,13 @@ woot, grab, meh {
 
 #grab .bottom,
 #grab.selected,
-.grab-rs .title.grab {
+.votes-rs .title.grab {
     	background: #2ea8d1 !important;
 }
 
 #meh .bottom,
 #meh.selected,
-.meh-rs .title.meh {
+.votes-rs .title.meh {
     	background: #db182e !important;
 }
 
