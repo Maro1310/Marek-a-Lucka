@@ -72,12 +72,12 @@
 	width: 255px !important;
 }
 
-/*#app #vote .bottom {
+#app #vote .bottom {
 	background: rgba(0,0,0,0);
 }
 #woot, #grab, #meh {
 	margin-top: 0 !important;
-}*/
+}
 #vote .selected,
 #vote .selected .value {
 	font-weight: bold;
