@@ -88,7 +88,7 @@
 
 #room .room-background {
     	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
-	width: 100%;
+	width: 100% !important;
 }
 
 #room .icon.icon-room {
