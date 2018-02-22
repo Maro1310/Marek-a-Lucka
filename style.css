@@ -136,6 +136,10 @@
     	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
 }
 
+#user-rollover {
+	border-radius: 10px;
+}
+
 /* --- RCS --- */
 
 .icon-rcsmenu-main {
