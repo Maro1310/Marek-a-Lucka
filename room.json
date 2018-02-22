@@ -1,7 +1,7 @@
 {
     "room": "Metal Rock Punk CZ/SK",
     "author": "Máro",
-    "css": "https://cdn.rawgit.com/Maro1310/plug/345dd639/style.css",
+    "css": "https://github.com/Maro1310/plug/blob/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
