@@ -16,6 +16,29 @@
     	display: none !important;
 }
 
+/* --- OTHER COMPONENTS COLORS --- */
+
+#playlist-button,
+#rcs-progress-container .bar {
+	background: #2ea8d1;
+}
+
+#user-menu .friends .count,
+.app-right .friends .header i,
+#friends-button .request-count,
+#user-friends .tab-menu button .count {
+	background: #58f;
+}
+
+#user-lists .header .button.room.selected,
+#user-lists .header .button.staff.selected,
+#user-lists .header .button.bans.selected,
+#user-lists .header .button.waitlist-bans.selected,
+#user-lists .header .button.mutes.selected,
+#user-lists .header .button.ignored.selected {
+    	border-bottom: 1px solid #2ea8d1;
+}
+
 /* --- CHAT --- */
 
 #chat .welcome {
@@ -115,27 +138,6 @@
 #vote .selected,
 #vote .selected .value {
 	font-weight: bold;
-}
-
-#playlist-button,
-#rcs-progress-container .bar,
-.app-right .friends .header i {
-	background: #2ea8d1;
-}
-
-#user-menu .friends .count,
-#friends-button .request-count,
-#user-friends .tab-menu button .count {
-	background: #58f;
-}
-
-#user-lists .header .button.room.selected,
-#user-lists .header .button.staff.selected,
-#user-lists .header .button.bans.selected,
-#user-lists .header .button.waitlist-bans.selected,
-#user-lists .header .button.mutes.selected,
-#user-lists .header .button.ignored.selected {
-    	border-bottom: 1px solid #2ea8d1;
 }
 
 #user-rollover .info {
