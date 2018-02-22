@@ -55,9 +55,9 @@
 
 /* --- DJ-BUTTON, VOTE --- */
 
-#vote,
 #dj-button,
-#dj-button .left {
+#dj-button .left,
+#woot, #grab, #meh {
 	box-shadow: 0 0 10px #000;
 }
 
