@@ -66,6 +66,12 @@
 	box-shadow: 0 0 10px #000;
 }
 
+/* --- DIALOGS --- */
+
+.dialog-frame .button.submit {
+    background: #2ea8d1 !important;
+}
+
 /* --- RCS --- */
 
 .icon-rcsmenu-main {
