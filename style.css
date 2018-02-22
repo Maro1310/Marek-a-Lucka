@@ -15,6 +15,7 @@
 	color: #58f !important; 
 }
 
+#chat .from .un,
 #chat .user-action,
 #chat .user-action .from.you .un,
 #chat .cm.moderation .from.staff .un {
@@ -65,6 +66,11 @@ woot, grab, meh {
 	width: 255px !important;
 }
 
+#woot.selected,
+.votes-rs .title.woot {
+    	background: #97cd00;
+}
+
 /* --- ROOM --- */
 
 #room .room-background {
@@ -77,7 +83,8 @@ woot, grab, meh {
 
 #playlist-button,
 #dj-button.is-join .left,
-#dj-button.is-quit .left, 
+#dj-button.is-quit .left,
+#dj-button.is-leave .left,
 #rcs-progress-container .bar,
 .app-right .friends .header i {
 	background: #2ea8d1;
