@@ -56,9 +56,20 @@
 /* --- DJ-BUTTON, VOTE --- */
 
 #dj-button,
-#dj-button .left,
-#woot, #grab, #meh {
+#dj-button .left {
 	box-shadow: 0 0 10px #000;
+}
+
+#woot {
+	box-shadow: -10px -10px 10px 0 #000;
+}
+
+#grab {
+	box-shadow: -10px 0 10px 0 #000;
+}
+
+#meh {
+	box-shadow: -10px 0 10px 10px #000;
 }
 
 #woot .bottom,
