@@ -21,6 +21,10 @@
     	color: #ac76ff !important;
 }
 
+#chat .text a {
+    	color: #2ea8d1 !important;
+}
+
 /* --- STAFF COLORS --- */
 
 #user-rollover.is-staff .thumb, 
