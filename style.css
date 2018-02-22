@@ -11,3 +11,152 @@
 #room .icon.icon-room {
 	background: url(https://i.imgur.com/3jLjL69.png);
 }
+
+/* --- --- */
+
+/*#chat .welcome {
+    	color: #2ea8d1;
+    	border: #2ea8d1 1px solid;
+}
+
+#chat .from.staff .un { 
+	color: #58f !important; 
+}
+
+#chat .from .un {
+    	color: #eee;
+}
+
+#chat .user-action,
+#chat .user-action .from .un,
+#chat .user-action .from.you .un,
+#chat .cm.moderation .from.staff .un {
+    	color: #ac76ff !important;
+}
+
+#chat .text a {
+    	color: #2ea8d1 !important;
+}
+
+#chat-input {
+    	border-radius: 20px;
+}
+
+.focused {
+	box-shadow: inset 0 0 0 1px #2ea8d1 !important;
+}
+
+#vote,
+#dj-button,
+#dj-button .left {
+	box-shadow: 0 0 10px #000;
+}
+
+#woot .bottom,
+#woot.selected,
+.votes-rs .title.woot {
+    	background: #97cd00 !important;
+}
+
+#grab .bottom,
+#grab.selected,
+.votes-rs .title.grab {
+    	background: #2ea8d1 !important;
+}
+
+#meh .bottom,
+#meh.selected,
+.votes-rs .title.meh {
+    	background: #db182e !important;
+}
+
+#vote .selected,
+#vote .selected .value {
+	font-weight: bold;
+}
+
+.icon { 
+    	background-image: url(https://i.imgur.com/5uyKtNs.png); 
+}
+
+.icon-rcsmenu-main {
+    	background: url(https://i.imgur.com/5S1UzEl.png) !important;
+}
+
+.icon-rcsmenu-notifications {
+	background: url(https://i.imgur.com/NBle05S.png) !important;
+}
+
+.icon-rcsmenu-styling {
+	background: url(https://i.imgur.com/Ddsz59Z.png) !important;
+}
+	
+.icon-rcsmenu-customize {
+	background: url(https://i.imgur.com/KpBIWw5.png) !important;
+}
+	
+.icon-rcsmenu-moderation {
+	background: url(https://i.imgur.com/IPs2ixJ.png) !important;
+}
+	
+.icon-rcsmenu-settings {
+	background: url(https://i.imgur.com/WzDiVGt.png) !important;
+}
+
+#room .room-background {
+    	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
+}
+
+#room .icon.icon-room {
+	background: url(https://i.imgur.com/3jLjL69.png) no-repeat !important;
+}
+
+#playlist-button,
+#dj-button.is-join .left,
+#dj-button.is-quit .left,
+#dj-button.is-leave .left,
+#rcs-progress-container .bar,
+.app-right .friends .header i {
+	background: #2ea8d1;
+}
+
+#user-menu .friends .count,
+#friends-button .request-count,
+#user-friends .tab-menu button .count {
+	background: #58f;
+}
+
+#user-lists .header .button.room.selected,
+#user-lists .header .button.staff.selected,
+#user-lists .header .button.bans.selected,
+#user-lists .header .button.waitlist-bans.selected,
+#user-lists .header .button.mutes.selected,
+#user-lists .header .button.ignored.selected {
+    	border-bottom: 1px solid #2ea8d1;
+}
+
+#room-settings .general-settings .description .value a:last-of-type {
+    	display: none !important;
+}
+
+#user-rollover .info {
+    	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
+}
+
+#user-rollover.is-staff .thumb, 
+#waitlist .is-staff .thumb { 
+	border-color: #58f !important; 
+}
+
+.is-staff .name,
+#user-rollover.is-staff .username,
+#user-rollover.is-staff .info .role span,
+.user-content.profile .meta.is-staff .role span { 
+	color: #58f !important; 
+}
+
+#user-lists .list.staff .group {
+	color: #58f !important;
+	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
+}*/
+
