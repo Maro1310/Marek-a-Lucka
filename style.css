@@ -1,10 +1,18 @@
+/* --- ROOM --- */
+
+.icon {
+	background-image: url(https://i.imgur.com/5uyKtNs.png); 
+}
+
 #room .room-background {
-    	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
+	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
 }
 
 #room .icon.icon-room {
 	background: url(https://i.imgur.com/3jLjL69.png);
 }
+
+/* --- --- */
 
 /*#chat .welcome {
     	color: #2ea8d1;
