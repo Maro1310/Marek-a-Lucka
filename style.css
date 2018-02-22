@@ -1,9 +1,3 @@
-/* --- ICONS --- */
-
-.icon { 
-    	background-image: url(https://i.imgur.com/5uyKtNs.png); 
-}
-
 /* --- CHAT --- */
 
 #chat .welcome {
@@ -13,6 +7,10 @@
 
 #chat .from.staff .un { 
 	color: #58f !important; 
+}
+
+#chat .from .un {
+    	color: #000;
 }
 
 #chat .user-action,
@@ -34,65 +32,9 @@
 	box-shadow: inset 0 0 0 1px #2ea8d1 !important;
 }
 
-/* --- STAFF COLORS --- */
+/* --- DJ BUTTON, VOTE --- */
 
-#user-rollover.is-staff .thumb, 
-#waitlist .is-staff .thumb { 
-	border-color: #58f !important; 
-}
-
-.is-staff .name,
-#user-rollover.is-staff .username,
-#user-rollover.is-staff .info .role span,
-.user-content.profile .meta.is-staff .role span { 
-	color: #58f !important; 
-}
-
-#user-lists .list.staff .group {
-	color: #58f !important;
-	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
-}
-
-/* --- DJ-BUTTON, VOTE --- */
-
-#vote {
-	box-shadow: 0 0 10px #000;
-	width: 255px !important;
-}
-#app #vote .bottom {
-	background: rgba(0,0,0,0);
-}
-#woot, #grab, #meh {
-	margin-top: 0 !important;
-}
-#vote .selected,
-#vote .selected .value {
-	font-weight: bold;
-	color: #fff;
-}
-#woot {
-	box-shadow: inset 0 0 10px hsl(0,0%,40%) !important;
-}
-#woot.selected, #woot-rs .title {
-	box-shadow: inset 0 0 10px hsl(70,100%,40%) !important;
-}
-#grab {
-	box-shadow: inset 0 0 10px hsl(0,0%,40%) !important;
-}
-#grab.selected, #grab-rs .title {
-	box-shadow: inset 0 0 10px hsl(280,100%,40%) !important;
-}
-#meh {
-	box-shadow: inset 0 0 10px hsl(0,0%,40%) !important;
-	margin-right: 0 !important;
-}
-#meh.selected, #meh-rs .title {
-	box-shadow: inset 0 0 10px hsl(15,100%,50%) !important;
-}
-
-/* --- */
-
-/*#vote,
+#vote,
 #dj-button,
 #dj-button .left {
 	box-shadow: 0 0 10px #000;
@@ -119,7 +61,39 @@
 #vote .selected,
 #vote .selected .value {
 	font-weight: bold;
-}*/
+}
+
+/* --- ICONS --- */
+
+.icon { 
+    	background-image: url(https://i.imgur.com/5uyKtNs.png); 
+}
+
+/* --- RCS --- */
+
+.icon-rcsmenu-main {
+    	background: url(https://i.imgur.com/5S1UzEl.png) !important;
+}
+
+.icon-rcsmenu-notifications {
+	background: url(https://i.imgur.com/NBle05S.png) !important;
+}
+
+.icon-rcsmenu-styling {
+	background: url(https://i.imgur.com/Ddsz59Z.png) !important;
+}
+	
+.icon-rcsmenu-customize {
+	background: url(https://i.imgur.com/KpBIWw5.png) !important;
+}
+	
+.icon-rcsmenu-moderation {
+	background: url(https://i.imgur.com/IPs2ixJ.png) !important;
+}
+	
+.icon-rcsmenu-settings {
+	background: url(https://i.imgur.com/WzDiVGt.png) !important;
+}
 
 /* --- ROOM --- */
 
@@ -163,28 +137,21 @@
     	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
 }
 
-/* --- RCS --- */
+/* --- STAFF COLORS --- */
 
-.icon-rcsmenu-main {
-    	background: url(https://i.imgur.com/5S1UzEl.png) !important;
-}
-
-.icon-rcsmenu-notifications {
-	background: url(https://i.imgur.com/NBle05S.png) !important;
+#user-rollover.is-staff .thumb, 
+#waitlist .is-staff .thumb { 
+	border-color: #58f !important; 
 }
 
-.icon-rcsmenu-styling {
-	background: url(https://i.imgur.com/Ddsz59Z.png) !important;
+.is-staff .name,
+#user-rollover.is-staff .username,
+#user-rollover.is-staff .info .role span,
+.user-content.profile .meta.is-staff .role span { 
+	color: #58f !important; 
 }
-	
-.icon-rcsmenu-customize {
-	background: url(https://i.imgur.com/KpBIWw5.png) !important;
-}
-	
-.icon-rcsmenu-moderation {
-	background: url(https://i.imgur.com/IPs2ixJ.png) !important;
-}
-	
-.icon-rcsmenu-settings {
-	background: url(https://i.imgur.com/WzDiVGt.png) !important;
+
+#user-lists .list.staff .group {
+	color: #58f !important;
+	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
 }
