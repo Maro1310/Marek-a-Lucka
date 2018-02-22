@@ -55,16 +55,12 @@
 
 /* --- DJ-BUTTON, VOTE --- */
 
+#vote,
 #dj-button,
 #dj-button .left,
-woot, grab, meh {
+#woot, #grab, #meh {
 	box-shadow: 0 0 10px #000;
 }
-
-/*#vote {
-	box-shadow: 0 0 10px #000;
-	width: 255px !important;
-}*/
 
 #woot .bottom,
 #woot.selected,
@@ -82,6 +78,11 @@ woot, grab, meh {
 #meh.selected,
 .votes-rs .title.meh {
     	background: #db182e !important;
+}
+
+#vote .selected,
+#vote .selected .value {
+	font-weight: bold;
 }
 
 /* --- ROOM --- */
