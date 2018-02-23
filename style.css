@@ -68,7 +68,25 @@
 
 /* --- DIALOGS --- */
 
-.dialog-frame .button.submit {
+#rs-dialog-sd .button.submit,
+#rs-dialog-cs .button.submit,
+#rs-dialog-cm .button.submit,
+#rs-dialog-afk .button.submit,
+#rs-dialog-cbg .button.submit,
+#rs-dialog-meh .button.submit,
+#rs-dialog-ccc .button.submit,
+#rs-dialog-cbg1 .button.submit,
+#rs-dialog-isize .button.submit,
+#rs-dialog-booth .button.submit,
+.dialog-frame .button.submit.cancel,
+#rs-dialog-autoleave .button.submit,
+#rs-dialog-customcss .button.submit,
+#rs-dialog-cbg1 .rs_change_bg_gallery,
+#rs-dialog-chatlimit .button.submit,
+#rs-dialog-emojitweaks .button.submit,
+#rs-dialog-deletedchat .button.submit,
+#rs-dialog-optimisesettings .button.submit, 
+#rs-dialog-optimisesettings .rs_change_optimise_general {
     background: #2ea8d1 !important;
 }
 
