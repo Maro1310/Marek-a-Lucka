@@ -19,7 +19,7 @@
 /* --- staff colors --- */
 
 .is-staff .name {
-	color: #58f;
+	color: #58f !important;
 }
 
 /* --- OTHER COMPONENTS COLORS --- */
