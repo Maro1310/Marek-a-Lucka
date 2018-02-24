@@ -28,19 +28,6 @@
 	text-shadow: 0 0 5px;
 }
 
-/* --- slider --- */
-
-.slider .line, #user-settings .slider .bar {
-	background: linear-gradient(to right, hsl(120,100%,50%), hsl(0,100%,50%)) !important;
-}
-#user-settings .slider .bar {
-	width: calc(100% - 1px) !important;
-}
-.slider .circle, #user-settings .slider .circle {
-	background: #fff !important;	
-	box-shadow: inset 0 0 10px rgba(0,0,0,.4);
-}
-
 /* --- footer --- */
 
 #footer-user .is-staff .name { 
