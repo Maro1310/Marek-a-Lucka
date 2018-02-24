@@ -38,7 +38,8 @@
 	box-shadow: 0px 1px 10px #000;
 }
 
-.app-header #history-button {
+.app-header #history-button,
+.app-header #rs-skip-button {
 	background: linear-gradient(hsl(210,10%,20%), hsl(210,0%,15%));
 }
 
