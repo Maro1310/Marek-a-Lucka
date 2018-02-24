@@ -1,11 +1,11 @@
-/* --- ROOM --- */
+/* --- room --- */
 
-.icon {
+#room .icon {
 	background-image: url(https://i.imgur.com/vhbW0iI.png); 
 }
 
 #room .room-background {
-	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
+	background: url(https://i.imgur.com/TdAXKlg.jpg);
 }
 
 #room .icon.icon-room {
@@ -18,7 +18,7 @@
 
 /* --- OTHER COMPONENTS COLORS --- */
 
-#playlist-button,
+/*#playlist-button,
 #rcs-progress-container .bar {
 	background: #2ea8d1;
 }
@@ -37,11 +37,11 @@
 #user-lists .header .button.mutes.selected,
 #user-lists .header .button.ignored.selected {
     	border-bottom: 1px solid #2ea8d1;
-}
+}*/
 
 /* --- CHAT --- */
 
-#chat .welcome {
+/*#chat .welcome {
     	color: #2ea8d1;
     	border: #2ea8d1 1px solid;
 }
@@ -52,11 +52,11 @@
 
 .focused {
 	box-shadow: inset 0 0 0 1px #2ea8d1 !important;
-}
+}*/
 
 /* --- DJ BUTTON --- */
 
-#dj-button.is-join .left,
+/*#dj-button.is-join .left,
 #dj-button.is-quit .left,
 #dj-button.is-leave .left {
 	background: #2ea8d1;
@@ -64,11 +64,11 @@
 
 #dj-button {
 	box-shadow: 0 0 10px #000;
-}
+}*/
 
 /* --- RCS --- */
 
-.icon-rcsmenu-main {
+/*.icon-rcsmenu-main {
     	background: url(https://i.imgur.com/5S1UzEl.png) !important;
 }
 
@@ -90,5 +90,5 @@
 	
 .icon-rcsmenu-settings {
 	background: url(https://i.imgur.com/WzDiVGt.png) !important;
-}
+}*/
 
