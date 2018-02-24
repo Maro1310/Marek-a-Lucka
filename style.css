@@ -12,8 +12,20 @@
 	background: url(https://i.imgur.com/3jLjL69.png);
 }
 
-#room-settings .general-settings .description .value a:last-of-type {
+#room-settings a:hover {
+	color: #2ea8d1 !important;
+	text-shadow: 0 0 5px;
+}
+
+#room-settings a:last-of-type {
     	display: none !important;
+}
+
+/* --- chat --- */
+
+#chat a:hover {
+	color: #2ea8d1 !important;
+	text-shadow: 0 0 5px;
 }
 
 /* --- footer --- */
