@@ -43,11 +43,6 @@
 	background: linear-gradient(hsl(210,10%,20%), hsl(210,0%,15%));
 }
 
-/*.app-header #history-button.selected,
-.app-header #header-panel-bar .selected {
-	background: linear-gradient(hsl(195, 64%, 50%), hsl(222, 100%, 67%));
-}*/
-
 /* --- user menu --- */
 
 #user-menu .avatar {
@@ -63,18 +58,6 @@
 }
 
 /*
-#footer {
-	box-shadow: 0px -1px 10px #000;
-}
-#footer .chevron:before, #footer .chevron:after {
-	background: hsl(200,100%,40%)!important;
-}
-#footer #your-next-media.in-history {
-	color: hsl(10,80%,55%);
-}
-#footer .back {
-	background: linear-gradient(hsl(210,10%,30%), hsl(210,10%,20%)) !important;
-}
 #footer-user .buttons .button:hover, #footer .back:hover, #video-only-dj:hover {
 	background: radial-gradient(hsl(200,100%,60%), hsl(200,100%,30%)) !important;
 	box-shadow: inset 0 0 1px 2px hsla(0,0%,100%,.3) !important;
@@ -97,6 +80,22 @@
 	color: hsl(200,100%,70%);
 }
 */
+
+#footer {
+	box-shadow: 0px -1px 10px #000;
+}
+
+/*#footer .chevron:before, #footer .chevron:after {
+	background: hsl(200,100%,40%)!important;
+}*/
+
+#footer #your-next-media.in-history {
+	color: #c42e3b;
+}
+
+/*#footer .back {
+	background: linear-gradient(hsl(210,10%,30%), hsl(210,10%,20%)) !important;
+}*/
 
 /* --- OTHER COMPONENTS COLORS --- */
 
