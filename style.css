@@ -16,10 +16,10 @@
     	display: none !important;
 }
 
-/* --- staff colors --- */
+/* --- footer --- */
 
-.is-staff .name {
-	color: #58f !important;
+#footer-user .is-staff .name { 
+	color: #58f !important; 
 }
 
 /* --- OTHER COMPONENTS COLORS --- */
