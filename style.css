@@ -16,6 +16,12 @@
     	display: none !important;
 }
 
+/* --- staff colors --- */
+
+.is-staff .name {
+	color: #58f;
+}
+
 /* --- OTHER COMPONENTS COLORS --- */
 
 /*#playlist-button,
