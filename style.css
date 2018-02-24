@@ -42,10 +42,10 @@
 	background: linear-gradient(hsl(210,10%,20%), hsl(210,0%,15%));
 }
 
-.app-header #history-button.selected,
+/*.app-header #history-button.selected,
 .app-header #header-panel-bar .selected {
 	background: linear-gradient(hsl(195, 64%, 50%), hsl(222, 100%, 67%));
-}
+}*/
 
 /* --- user menu --- */
 
