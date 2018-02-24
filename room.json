@@ -1,16 +1,16 @@
 {
-    "room": "Metal Rock Punk CZ/SK",
-    "author": "Máro",
-    "css": "https://cdn.rawgit.com/Maro1310/metal-rock-punk-cz-sk/e98815bc/style.css",
+    "room":     "Metal Rock Punk CZ/SK",
+    "author":   "Máro",
+    "css":      "https://cdn.rawgit.com/Maro1310/metal-rock-punk-cz-sk/e98815bc/style.css",
     "rules": {
         "allowAutorespond": true,
-        "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
-        "allowSmartVote": true,
-        "allowEmotes": true,
+        "allowAutowoot":    true,
+        "allowAutojoin":    true,
+        "allowAutograb":    true,
+        "allowSmartVote":   true,
+        "allowEmotes":      true,
         "allowShowingMehs": true,
-        "forceSmartVote": false
+        "forceSmartVote":   false
     },
     "images": {
         "playback": "https://i.imgur.com/eKoIQDS.png"
