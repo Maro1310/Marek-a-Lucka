@@ -5,7 +5,7 @@
 }
 
 #room .room-background {
-	background: url(https://i.imgur.com/TdAXKlg.jpg);
+	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
 }
 
 #room .icon.icon-room {
