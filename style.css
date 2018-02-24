@@ -1,7 +1,7 @@
 /* --- ROOM --- */
 
 .icon {
-	background-image: url(https://i.imgur.com/LPfj15t.png); 
+	background-image: url(https://i.imgur.com/vhbW0iI.png); 
 }
 
 #room .room-background {
@@ -66,29 +66,6 @@
 	box-shadow: 0 0 10px #000;
 }
 
-/* --- DIALOGS --- */
-
-#rs-dialog-sd .button.submit,
-#rs-dialog-cs .button.submit,
-#rs-dialog-cm .button.submit,
-#rs-dialog-afk .button.submit,
-#rs-dialog-cbg .button.submit,
-#rs-dialog-meh .button.submit,
-#rs-dialog-ccc .button.submit,
-#rs-dialog-cbg1 .button.submit,
-#rs-dialog-isize .button.submit,
-#rs-dialog-booth .button.submit,
-#rs-dialog-autoleave .button.submit,
-#rs-dialog-customcss .button.submit,
-#rs-dialog-chatlimit .button.submit,
-#rs-dialog-emojitweaks .button.submit,
-#rs-dialog-deletedchat .button.submit,
-#rs-dialog-autowoot .button.submit.cancel,
-#rs-dialog-smartvote .button.submit.cancel,
-#rs-dialog-optimisesettings .button.submit {
-    background: #2ea8d1 !important;
-}
-
 /* --- RCS --- */
 
 .icon-rcsmenu-main {
@@ -114,73 +91,4 @@
 .icon-rcsmenu-settings {
 	background: url(https://i.imgur.com/WzDiVGt.png) !important;
 }
-
-/* --- --- */
-
-/*#chat .from.staff .un { 
-	color: #58f !important; 
-}
-
-#chat .from .un {
-    	color: #eee;
-}
-
-#chat .user-action,
-#chat .user-action .from .un,
-#chat .user-action .from.you .un,
-#chat .cm.moderation .from.staff .un {
-    	color: #ac76ff !important;
-}
-
-#chat .text a {
-    	color: #2ea8d1 !important;
-}
-
-#vote {
-	box-shadow: 0 0 10px #000;
-}
-
-#woot .bottom,
-#woot.selected,
-.votes-rs .title.woot {
-    	background: #97cd00 !important;
-}
-
-#grab .bottom,
-#grab.selected,
-.votes-rs .title.grab {
-    	background: #2ea8d1 !important;
-}
-
-#meh .bottom,
-#meh.selected,
-.votes-rs .title.meh {
-    	background: #db182e !important;
-}
-
-#vote .selected,
-#vote .selected .value {
-	font-weight: bold;
-}
-
-#user-rollover .info {
-    	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
-}
-
-#user-rollover.is-staff .thumb, 
-#waitlist .is-staff .thumb { 
-	border-color: #58f !important; 
-}
-
-.is-staff .name,
-#user-rollover.is-staff .username,
-#user-rollover.is-staff .info .role span,
-.user-content.profile .meta.is-staff .role span { 
-	color: #58f !important; 
-}
-
-#user-lists .list.staff .group {
-	color: #58f !important;
-	background: linear-gradient(to right, rgb(0, 23, 47) 0, rgb(4, 25, 47) 100%) !important;
-}*/
 
