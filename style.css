@@ -1,11 +1,11 @@
 /* --- room --- */
 
-#room .icon {
+.icon {
 	background-image: url(https://i.imgur.com/vhbW0iI.png); 
 }
 
 #room .room-background {
-	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
+	background: url(https://i.imgur.com/TdAXKlg.jpg) !important;
 }
 
 #room .icon.icon-room {
