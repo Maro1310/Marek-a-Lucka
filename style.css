@@ -63,6 +63,10 @@
 
 /* --- app header --- */ 
 
+#rcs-progress-container .bar {
+	background: #2ea8d1;
+}
+
 /* --- footer --- */
 
 #footer #your-next-media.in-history {
@@ -101,8 +105,7 @@
 
 /* --- OTHER COMPONENTS COLORS --- */
 
-/*#playlist-button,
-#rcs-progress-container .bar {
+/*#playlist-button {
 	background: #2ea8d1;
 }
 
