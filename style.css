@@ -56,7 +56,8 @@
 	box-shadow: inset 0 0 0 1px #2ea8d1 !important;
 }
 
-#chat .from.staff .un { 
+#chat .from.staff .un,
+$chat .mention.is-staff .msg .text .name { 
 	color: #58f !important; 
 }
 
@@ -66,6 +67,7 @@
 	border-color: #58f !important; 
 }
 
+#user-rollover.is-staff .meta .username,
 #user-rollover.is-staff .info .role span { 
 	color: #58f; 
 }
@@ -76,10 +78,20 @@
 	color: #58f; 
 }
 
+/* --- user list --- */
+
+#user-lists .list.room .user.is-staff .name { 
+	color: #58f !important; 
+}
+
 /* --- waitlist --- */
 
 #waitlist .is-staff .thumb {
 	border-color: #58f !important;
+}
+
+#waitlist .list .user .is-staff .name { 
+	color: #58f !important; 
 }
 
 /* --- dj button --- */
