@@ -21,6 +21,21 @@
     	display: none !important;
 }
 
+/* --- app right --- */
+
+.app-right .friends .header i {
+	background: #58f;
+}
+
+#user-lists .header .button.room.selected,
+#user-lists .header .button.staff.selected,
+#user-lists .header .button.bans.selected,
+#user-lists .header .button.waitlist-bans.selected,
+#user-lists .header .button.mutes.selected,
+#user-lists .header .button.ignored.selected {
+    	border-bottom: 1px solid #2ea8d1;
+}
+
 /* --- chat --- */
 
 #chat a:hover {
@@ -74,6 +89,10 @@
 	background: #2ea8d1;
 }
 
+#friends-button .request-count {
+	background: #58f;
+}
+
 /* --- footer --- */
 
 #footer #your-next-media.in-history {
@@ -82,6 +101,10 @@
 
 #footer-user .is-staff .name { 
 	color: #58f !important; 
+}
+
+#playlist-button {
+	background: #2ea8d1;
 }
 
 /* --- rcs --- */
@@ -109,25 +132,3 @@
 .icon-rcsmenu-settings {
 	background: url(https://i.imgur.com/WzDiVGt.png) !important;
 }
-
-/* --- OTHER COMPONENTS COLORS --- */
-
-/*#playlist-button {
-	background: #2ea8d1;
-}
-
-#user-menu .friends .count,
-.app-right .friends .header i,
-#friends-button .request-count,
-#user-friends .tab-menu button .count {
-	background: #58f;
-}
-
-#user-lists .header .button.room.selected,
-#user-lists .header .button.staff.selected,
-#user-lists .header .button.bans.selected,
-#user-lists .header .button.waitlist-bans.selected,
-#user-lists .header .button.mutes.selected,
-#user-lists .header .button.ignored.selected {
-    	border-bottom: 1px solid #2ea8d1;
-}*/
