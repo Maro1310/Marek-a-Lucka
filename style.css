@@ -38,8 +38,11 @@
 
 /* --- chat --- */
 
-#chat a:hover {
+#chat .text a {
 	color: #2ea8d1 !important;
+}
+
+#chat a:hover {
 	text-shadow: 0 0 5px;
 }
 
@@ -47,6 +50,8 @@
     	color: #2ea8d1;
     	border: #2ea8d1 1px solid;
 }
+
+https://cdn.rawgit.com/Maro1310/metal-rock-punk-cz-sk/eb59cb95/style.css
 
 #chat-input {
     	border-radius: 20px;
