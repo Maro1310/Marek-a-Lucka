@@ -56,6 +56,32 @@
 	box-shadow: inset 0 0 0 1px #2ea8d1 !important;
 }
 
+#chat .from.staff .un { 
+	color: #58f !important; 
+}
+
+/* --- user rollover --- */
+
+#user-rollover.is-staff .thumb { 
+	border-color: #58f !important; 
+}
+
+#user-rollover.is-staff .info .role span { 
+	color: #58f; 
+}
+
+/* ---  user view --- */
+
+#user-view .user-content.profile .meta.is-staff .role span { 
+	color: #58f; 
+}
+
+/* --- waitlist --- */
+
+#waitlist .is-staff .thumb {
+	border-color: #58f !important;
+}
+
 /* --- dj button --- */
 
 #dj-button.is-join .left,
