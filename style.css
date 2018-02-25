@@ -60,7 +60,7 @@
 }
 
 #chat .from.staff .un,
-$chat .mention.is-staff .msg .text .name { 
+#chat .mention.is-staff .msg .text .name { 
 	color: #58f !important; 
 }
 
