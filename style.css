@@ -1,3 +1,17 @@
+/* --- personal badges --- */
+
+[data-cid^="11951166-"] .badge-box .bdg {
+	background: url(https://i.imgur.com/n9EC9DA.jpg) !important;
+	background-position: 0 0;
+}
+
+/*#user-rollover.id-5477951 .badge-box .bdg {
+	border-radius: 5px !important;
+	background-image: url('https://tessi1998.github.io/FreeRun/Badges/Tessi_Tess.png') !important;
+	background-repeat: round !important;
+	background-size: 30px !important;
+}*/
+
 /* --- room --- */
 
 .icon {
@@ -5,7 +19,7 @@
 }
 
 #room .room-background {
-	background: url(https://i.imgur.com/TdAXKlg.jpg) !important;
+	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
 }
 
 #room .icon.icon-room {
@@ -37,7 +51,7 @@
     	border-radius: 20px;
 }
 
-.focused {
+#chat .focused {
 	box-shadow: inset 0 0 0 1px #2ea8d1 !important;
 }
 
