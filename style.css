@@ -89,6 +89,10 @@
 	background: #2ea8d1;
 }
 
+#rcs-progress-container {
+	width: 470px !important;
+}
+
 #friends-button .request-count {
 	background: #58f;
 }
