@@ -164,6 +164,16 @@
 	background: #2ea8d1;
 }
 
+/* --- playlist --- */
+
+#playlist-activate-button span {
+    	color: #000 !important;
+}
+
+#playlist-activate-button .active span {
+    	color: #28ead1 !important;
+}
+
 /* --- rcs --- */
 
 .rsshit.sml.rs-log-user-grab .badge-box i {
