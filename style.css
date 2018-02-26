@@ -64,6 +64,11 @@
 	color: #58f !important; 
 }
 
+#chat .cm.moderation .from .un,
+#chat .cm.moderation .from.staff .un {
+	color: #ac76ff !important;
+}
+
 /* --- user rollover --- */
 
 #user-rollover.is-staff .thumb { 
@@ -111,7 +116,8 @@
 
 /* --- vote --- */
 
-#vote {
+#vote,
+.votes-rs {
 	box-shadow: 0 0 10px #000;
 	width: 254px !important;
 }
@@ -122,6 +128,12 @@
 
 #meh {
 	margin-right: 0 !important;
+}
+
+#grab .bottom, 
+#grab.selected,
+.votes-rs .title.grab {
+	background: #2ea8d1 !important;
 }
 
 /* --- app header --- */ 
