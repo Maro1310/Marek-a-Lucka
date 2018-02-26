@@ -170,8 +170,20 @@
     	color: #fff !important;
 }
 
-#playlist-activate-button .active span {
-    	color: #28ead1 !important;
+#playlist-activate-button.active span {
+    	color: #2ea8d1 !important;
+}
+
+#playlist-activate-button {
+    	background: #2ea8d1 !important;
+}
+
+#playlist-menu .menu .row.selected {
+    	background: #2ea8d1 !important;
+}
+
+.media-list .row.selected {
+    	background: #2ea8d1 !important;
 }
 
 /* --- rcs --- */
