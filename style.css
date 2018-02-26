@@ -21,6 +21,10 @@
     	display: none !important;
 }
 
+#room-settings .general-settings a {
+    	color: #2ea8d1 !important;
+}
+
 /* --- app right --- */
 
 .app-right .friends .header i {
@@ -68,6 +72,9 @@
 #chat .cm.moderation .from.staff .un {
 	color: #ac76ff !important;
 }
+
+#chat .rs-log-user-grab {
+    color: #2ea8d1 !important;
 
 /* --- user rollover --- */
 
@@ -161,6 +168,10 @@
 }
 
 /* --- rcs --- */
+
+.rsshit.sml.rs-log-user-grab .badge-box i {
+    background: url(https://i.imgur.com/TZFD6Fx.png) !important;
+}
 
 .icon-rcsmenu-main {
     	background: url(https://i.imgur.com/5S1UzEl.png) !important;
