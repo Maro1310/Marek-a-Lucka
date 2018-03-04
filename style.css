@@ -1,7 +1,7 @@
 /* --- room --- */
 
 .icon {
-	background-image: url(https://i.imgur.com/rV77xDp.png); 
+	background-image: url(https://i.imgur.com/TqaTXDD.png); 
 }
 
 #room .room-background {
@@ -12,22 +12,31 @@
 	background: url(https://i.imgur.com/3jLjL69.png);
 }
 
-#room-settings a:hover {
+/*#room-settings a:hover {
 	color: #2ea8d1 !important;
 	text-shadow: 0 0 5px;
-}
+}*/
 
 #room-settings a:last-of-type {
     	display: none !important;
 }
 
-#room-settings .general-settings a {
+/*#room-settings .general-settings a {
     	color: #2ea8d1 !important;
+}*/
+
+/* --- app header --- */
+
+#rcs-progress-container .bar {
+	background: #fff !important;
 }
+
+
+
 
 /* --- app right --- */
 
-.app-right .friends .header i {
+/*.app-right .friends .header i {
 	background: #58f;
 }
 
@@ -38,11 +47,11 @@
 #user-lists .header .button.mutes.selected,
 #user-lists .header .button.ignored.selected {
     	border-bottom: 1px solid #2ea8d1;
-}
+}*/
 
 /* --- chat --- */
 
-#chat .text a {
+/*#chat .text a {
 	color: #2ea8d1 !important;
 }
 
@@ -75,44 +84,44 @@
 
 #chat .rs-log-user-grab {
     color: #2ea8d1 !important;
-}
+}*/
 
 /* --- user rollover --- */
 
-#user-rollover.is-staff .thumb { 
+/*#user-rollover.is-staff .thumb { 
 	border-color: #58f !important; 
 }
 
 #user-rollover.is-staff .meta .username,
 #user-rollover.is-staff .info .role span { 
 	color: #58f; 
-}
+}*/
 
 /* ---  user view --- */
 
-#user-view .user-content.profile .meta.is-staff .role span { 
+/*#user-view .user-content.profile .meta.is-staff .role span { 
 	color: #58f; 
-}
+}*/
 
 /* --- user list --- */
 
-#user-lists .list.room .user.is-staff .name { 
+/*#user-lists .list.room .user.is-staff .name { 
 	color: #58f !important; 
-}
+}*/
 
 /* --- waitlist --- */
 
-#waitlist .is-staff .thumb {
+/*#waitlist .is-staff .thumb {
 	border-color: #58f !important;
-}
+}*/
 
-#waitlist .list .user .is-staff .name { 
+/*#waitlist .list .user .is-staff .name { 
 	color: #58f !important; 
-}
+}*/
 
 /* --- dj button --- */
 
-#dj-button.is-join .left,
+/*#dj-button.is-join .left,
 #dj-button.is-quit .left,
 #dj-button.is-leave .left {
 	background: #2ea8d1;
@@ -120,11 +129,11 @@
 
 #dj-button {
 	box-shadow: 0 0 10px #000;
-}
+}*/
 
 /* --- vote --- */
 
-#vote,
+/*#vote,
 .votes-rs {
 	box-shadow: 0 0 10px #000;
 	width: 254px !important;
@@ -142,31 +151,31 @@
 #grab.selected,
 .votes-rs .title.grab {
 	background: #2ea8d1 !important;
-}
+}*/
 
 /* --- app header --- */ 
 
-#rcs-progress-container .bar {
+/*#rcs-progress-container .bar {
 	background: #2ea8d1;
 }
 
 #friends-button .request-count {
 	background: #58f;
-}
+}*/
 
 /* --- footer --- */
 
-#footer-user .is-staff .name { 
+/*#footer-user .is-staff .name { 
 	color: #58f !important; 
 }
 
 #playlist-button {
 	background: #2ea8d1;
-}
+}*/
 
 /* --- playlist --- */
 
-#playlist-activate-button span {
+/*#playlist-activate-button span {
     	color: #fff !important;
 }
 
@@ -184,11 +193,11 @@
 
 .media-list .row.selected {
     	background: #2ea8d1 !important;
-}
+}*/
 
 /* --- rcs --- */
 
-.rsshit.sml.rs-log-user-grab .badge-box i {
+/*.rsshit.sml.rs-log-user-grab .badge-box i {
     background: url(https://i.imgur.com/TZFD6Fx.png) !important;
 }
 
@@ -214,4 +223,4 @@
 	
 .icon-rcsmenu-settings {
 	background: url(https://i.imgur.com/WzDiVGt.png) !important;
-}
+}*/
