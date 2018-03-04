@@ -5,30 +5,21 @@
 }
 
 #room .room-background {
-	background: url(https://i.imgur.com/TdAXKlg.jpg) no-repeat !important;
+	background: url(https://i.imgur.com/TdAXKlg.jpg);
 }
 
 #room .icon.icon-room {
 	background: url(https://i.imgur.com/3jLjL69.png);
 }
 
-/*#room-settings a:hover {
-	color: #2ea8d1 !important;
-	text-shadow: 0 0 5px;
-}*/
-
 #room-settings a:last-of-type {
-    	display: none !important;
+    	display: none;
 }
-
-/*#room-settings .general-settings a {
-    	color: #2ea8d1 !important;
-}*/
 
 /* --- app header --- */
 
 #rcs-progress-container .bar {
-	background: #fff !important;
+	background: #fff;
 }
 
 
