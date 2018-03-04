@@ -5,7 +5,7 @@
 }
 
 #room .room-background {
-	background: url(https://i.imgur.com/TdAXKlg.jpg);
+	background: url(https://i.imgur.com/TdAXKlg.jpg) !important;
 }
 
 #room .icon.icon-room {
@@ -19,7 +19,7 @@
 /* --- app header --- */
 
 #rcs-progress-container .bar {
-	background: #fff;
+	background: #fff !important;
 }
 
 
