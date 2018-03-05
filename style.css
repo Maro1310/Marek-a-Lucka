@@ -37,6 +37,33 @@
 	box-shadow: inset 0 0 0 1px #2ea8d1 !important;
 }
 
+/* --- dj button, vote --- */
+
+#dj-button {
+	box-shadow: 0 0 10px #000;
+}
+
+#vote,
+.votes-rs {
+	box-shadow: 0 0 10px #000;
+	width: 254px !important;
+}
+
+#woot, #grab, #meh {
+	margin-top: 0 !important;
+}
+
+#meh {
+	margin-right: 0 !important;
+}
+
+#grab .bottom, 
+#grab.selected,
+.votes-rs .title.grab {
+	background: #2ea8d1;
+}
+
+
 /*
 .app-right .friends .header i {
 	background: #58f;
